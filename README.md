@@ -14,4 +14,3 @@ The final table will contain both links to IMDB and Subscene.
 Using a tool call SendGrid, we'll be able to send this list via email  (in HTML format), to which we'll join an Excel Spreadsheet containing the archive of all previous web-scraping processes.
 
 ![Resultat](https://i.imgur.com/sdyoVho.png)
-
