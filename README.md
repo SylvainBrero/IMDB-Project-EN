@@ -1,4 +1,4 @@
-# IMDB-Project-EN-
+# IMDB-Project-EN
 A quick rundown of its process
 
 This personal project, still ongoing to this day, is based on building, via web-scraping, a list of movies I might be interested to watch. In order to get that list, we'll be sraping data from Subscene (subscene.com), which is a website hosting a variety of subtitles. The logic behind it is : if a subtitle is available for download, then the file (movie/episode) that the subtitle is for is also available.
